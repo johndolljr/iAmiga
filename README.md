@@ -38,3 +38,8 @@ To optimize emulation performance and to reduce CPU load make sure that the buil
 You find this in the project's Xcode build settings, specifically in the *Apple LLVM - Code Generation*->*Optimization Level* section.
 
 See this link for more information: [Issue39](https://github.com/emufreak/iAmiga/issues/39)
+
+## License
+
+iAmiga is free software licensed under the GNU General Public License version 2 (GPL-2.0). See [COPYING](COPYING) for the full license text.
+
